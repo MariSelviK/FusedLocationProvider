@@ -28,5 +28,17 @@
         android:layout_toRightOf="@+id/listView"
         android:text="TextView" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listView"
+        android:layout_marginLeft="44dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="135dp"
+        android:layout_toEndOf="@+id/listView"
+        android:layout_toRightOf="@+id/listView"
+        android:text="TextView" />
+
 
 </RelativeLayout>
